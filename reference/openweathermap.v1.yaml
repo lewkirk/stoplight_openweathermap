@@ -17,7 +17,7 @@ servers:
 paths:
   /weather:
     get:
-      summary: ''
+      summary: weather
       tags:
         - Weather endpoints
       responses:
